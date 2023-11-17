@@ -1,0 +1,6 @@
+# Rust cargo build
+src/logger-api/target/
+
+# Node modules
+**/node_modules/
+src/BackEnd/audios/**

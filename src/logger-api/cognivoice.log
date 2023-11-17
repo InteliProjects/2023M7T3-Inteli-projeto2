@@ -1,0 +1,464 @@
+[10.128.66.217] - [2023-10-06T16:08:47.055356621+00:00] [DEBUG] - UserService: auth: https://bb58-177-69-182-113.ngrok-free.app/v1/user/auth  
+[10.128.66.217] - [2023-10-06T16:08:47.055536716+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T16:08:47.148004149+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:08:47.153953212+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T16:08:47.156286018+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T16:08:47.156487005+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:08:47.157698087+00:00] [DEBUG] - UserService: getUser: https://bb58-177-69-182-113.ngrok-free.app/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:08:47.274848431+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:08:47.286076404+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T16:08:47.286089210+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T16:08:47.286091312+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T16:08:49.389667061+00:00] [INFO] - SelectMode: Selected mode: 1  
+[10.128.66.217] - [2023-10-06T16:08:49.976435536+00:00] [INFO] - SelectMode: Selected mode: 0  
+[10.128.66.217] - [2023-10-06T16:08:52.203295877+00:00] [DEBUG] - UserService: updateUser: https://bb58-177-69-182-113.ngrok-free.app/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:08:52.203327137+00:00] [INFO] - SelectMode: Submit button pressed  
+[10.128.66.217] - [2023-10-06T16:08:52.352375217+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:08:52.370227875+00:00] [DEBUG] - SelectMode: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:08:52.370227859+00:00] [INFO] - SelectMode: Selected mode: MarketTracker  
+[10.128.66.217] - [2023-10-06T16:08:52.370227738+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T16:08:52.370227828+00:00] [INFO] - SelectMode: Submit successful  
+[10.128.66.217] - [2023-10-06T16:08:52.374519474+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T16:08:52.374547135+00:00] [INFO] - Home: Changing dependencies  
+[10.128.66.217] - [2023-10-06T16:08:52.474212820+00:00] [INFO] - Home: Initializing state  
+[10.128.66.217] - [2023-10-06T16:08:59.789919622+00:00] [INFO] - Home: Settings button clicked  
+[10.128.66.217] - [2023-10-06T16:09:01.392046088+00:00] [INFO] - Settings: Updating to: SalesTracker  
+[10.128.66.217] - [2023-10-06T16:09:01.392068435+00:00] [DEBUG] - UserService: updateUser: https://bb58-177-69-182-113.ngrok-free.app/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:09:01.478707717+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:09:01.495845413+00:00] [DEBUG] - UserService: getUser: https://bb58-177-69-182-113.ngrok-free.app/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:09:01.495845435+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T16:09:01.587309383+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:09:01.587349783+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T16:09:01.622673505+00:00] [INFO] - Settings: _updateSelectedMode: Updated user mode  
+[10.128.66.217] - [2023-10-06T16:09:04.092843812+00:00] [INFO] - Settings: Updating to: MarketTracker  
+[10.128.66.217] - [2023-10-06T16:09:04.097829677+00:00] [DEBUG] - UserService: updateUser: https://bb58-177-69-182-113.ngrok-free.app/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:09:04.170960+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:09:04.182301280+00:00] [DEBUG] - UserService: getUser: https://bb58-177-69-182-113.ngrok-free.app/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:09:04.182301273+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T16:09:04.270983364+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:09:04.275506732+00:00] [INFO] - Settings: _updateSelectedMode: Updated user mode  
+[10.128.66.217] - [2023-10-06T16:09:04.275545387+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T16:09:06.259418973+00:00] [INFO] - Home: Navigating to chat defa13a5-369c-4e29-a223-78b9b618fae0  
+[10.128.66.217] - [2023-10-06T16:09:06.260030399+00:00] [INFO] - Home: Getting chat defa13a5-369c-4e29-a223-78b9b618fae0  
+[10.128.66.217] - [2023-10-06T16:09:07.819666121+00:00] [INFO] - Home: Chat defa13a5-369c-4e29-a223-78b9b618fae0 retrieved successfully  
+[10.128.66.217] - [2023-10-06T16:09:11.609355086+00:00] [INFO] - Home: Creating chat  
+[10.128.66.217] - [2023-10-06T16:09:17.857327924+00:00] [INFO] - ChatScreen: Chat created successfully: 6980bd6f-23bc-4208-9b58-7e1548e49d73  
+[10.128.66.217] - [2023-10-06T16:09:17.857456036+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T16:09:17.859021311+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T16:09:17.919571025+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T16:09:17.919615909+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T16:09:17.919828686+00:00] [INFO] - AudioService: Posting audio to https://bb58-177-69-182-113.ngrok-free.app/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T16:09:17.932167311+00:00] [INFO] - AudioService: Audio bytes length - 37884  
+[10.128.66.217] - [2023-10-06T16:09:48.776560200+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:09:48.823114535+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T16:09:48.823132840+00:00] [INFO] - AudioService: Response success  
+[10.128.66.217] - [2023-10-06T16:11:52.990126688+00:00] [INFO] - ChatScreen: Chat created successfully: 29314fb2-4322-487e-a4e1-392ef1668c9d  
+[10.128.66.217] - [2023-10-06T16:11:52.990126738+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T16:11:52.990126724+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T16:11:53.026600275+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T16:11:53.026712718+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T16:11:53.027428312+00:00] [INFO] - AudioService: Posting audio to https://bb58-177-69-182-113.ngrok-free.app/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T16:11:53.049573617+00:00] [INFO] - AudioService: Audio bytes length - 67235  
+[10.128.66.217] - [2023-10-06T16:12:15.224590844+00:00] [INFO] - AudioService: Response - Ao pensar sobre o que dar aos clientes em ações de marketing, é importante considerar o objetivo da promoção e entender o perfil do público-alvo. Alguns itens populares incluem brindes promocionais, amostras grátis, cupons de desconto, acessórios relacionados à marca, conteúdo exclusivo, sorteios e concursos. O importante é escolher algo que seja relevante para os clientes, que gere valor para eles e que esteja alinhado com a identidade da marca.  
+[10.128.66.217] - [2023-10-06T16:12:15.228405758+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T16:12:15.228413601+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:12:15.228540049+00:00] [INFO] - AudioService: Response success  
+[10.128.66.217] - [2023-10-06T16:12:27.705891584+00:00] [INFO] - Home: Deleting chat 29314fb2-4322-487e-a4e1-392ef1668c9d  
+[10.128.66.217] - [2023-10-06T16:12:28.394565394+00:00] [DEBUG] - User ID: 94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:12:28.394565380+00:00] [DEBUG] - Chat ID: 29314fb2-4322-487e-a4e1-392ef1668c9d  
+[10.128.66.217] - [2023-10-06T16:12:28.394565342+00:00] [INFO] - Home: Deleting chat  
+[10.128.66.217] - [2023-10-06T16:12:28.516216413+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T16:12:30.995139550+00:00] [INFO] - Home: Creating chat  
+[10.128.66.217] - [2023-10-06T16:12:36.615505885+00:00] [INFO] - ChatScreen: Chat created successfully: 4d146cdf-76ad-4e8a-ad9c-b3d8c3eddf0c  
+[10.128.66.217] - [2023-10-06T16:12:36.615779959+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T16:12:36.615822043+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T16:12:36.657479645+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T16:12:36.658629025+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T16:12:36.658684721+00:00] [INFO] - AudioService: Posting audio to https://bb58-177-69-182-113.ngrok-free.app/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T16:12:36.670344074+00:00] [INFO] - AudioService: Audio bytes length - 51838  
+[10.128.66.217] - [2023-10-06T16:12:56.179002172+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:12:56.179214049+00:00] [INFO] - AudioService: Response success  
+[10.128.66.217] - [2023-10-06T16:12:56.180497524+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T16:12:56.180570797+00:00] [INFO] - AudioService: Response - A empresa Meta é uma empresa de tecnologia sediada em Seattle, Washington. Fundada em 2005, a Meta se especializa em inteligência artificial e realidade aumentada. Eles desenvolveram o Meta 2, um headset de realidade aumentada que permite que os usuários interajam com objetos digitais em um ambiente físico. A Meta tem como objetivo revolucionar a maneira como as pessoas trabalham, aprendem e se conectam usando a tecnologia de realidade aumentada.  
+[10.128.66.217] - [2023-10-06T16:13:05.012604809+00:00] [INFO] - Home: Deleting chat 4d146cdf-76ad-4e8a-ad9c-b3d8c3eddf0c  
+[10.128.66.217] - [2023-10-06T16:13:05.730648863+00:00] [DEBUG] - Chat ID: 4d146cdf-76ad-4e8a-ad9c-b3d8c3eddf0c  
+[10.128.66.217] - [2023-10-06T16:13:05.730648894+00:00] [DEBUG] - User ID: 94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:13:05.730648727+00:00] [INFO] - Home: Deleting chat  
+[10.128.66.217] - [2023-10-06T16:13:05.846440823+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T16:13:08.923159978+00:00] [INFO] - Home: Creating chat  
+[10.128.66.217] - [2023-10-06T16:13:13.986749149+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T16:13:13.986846805+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T16:13:13.986837388+00:00] [INFO] - ChatScreen: Chat created successfully: 3d6ee1e2-f7d5-4d39-813d-7c07a536c390  
+[10.128.66.217] - [2023-10-06T16:13:13.986837381+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T16:13:14.008105475+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T16:13:14.009551150+00:00] [INFO] - AudioService: Posting audio to https://bb58-177-69-182-113.ngrok-free.app/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T16:13:14.021603438+00:00] [INFO] - AudioService: Audio bytes length - 54497  
+[10.128.66.217] - [2023-10-06T16:13:42.124710198+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:13:42.124716705+00:00] [INFO] - AudioService: Response - O Facebook é uma rede social que permite aos usuários se conectarem com amigos, familiares e colegas, compartilhando conteúdo como fotos, vídeos e mensagens. Além da plataforma principal do Facebook, a empresa também é proprietária de outros produtos populares, como o Instagram, o WhatsApp e o Messenger. O Instagram é uma plataforma de compartilhamento de fotos e vídeos, enquanto o WhatsApp e o Messenger são aplicativos de mensagens que permitem aos usuários se comunicarem de forma rápida e fácil. Esses produtos do Facebook têm sido amplamente utilizados por pessoas e empresas para se conectar com seu público-alvo e comercializar seus produtos e serviços.  
+[10.128.66.217] - [2023-10-06T16:13:42.128672308+00:00] [INFO] - AudioService: Response success  
+[10.128.66.217] - [2023-10-06T16:13:42.128672936+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T16:15:06.103965820+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T16:15:06.104314504+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T16:15:06.125469507+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T16:15:06.145797743+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T16:15:06.179292622+00:00] [INFO] - AudioService: Audio bytes length - 38692  
+[10.128.66.217] - [2023-10-06T16:15:06.179303930+00:00] [INFO] - AudioService: Posting audio to https://bb58-177-69-182-113.ngrok-free.app/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T16:15:46.873445817+00:00] [INFO] - AudioService: Response success  
+[10.128.66.217] - [2023-10-06T16:15:46.873462942+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T16:15:46.873462937+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:15:46.873489256+00:00] [INFO] - AudioService: Response - O Watson é uma plataforma de inteligência artificial desenvolvida pela IBM. Ele funciona através do processamento de grandes quantidades de dados e utilização de algoritmos avançados de aprendizado de máquina para compreender, analisar e interpretar informações.  O Watson utiliza um conjunto de tecnologias e ferramentas, como processamento de linguagem natural, reconhecimento de fala, análise de sentimentos e processamento de dados não estruturados, para extrair insights e fornecer respostas relevantes.  Ele pode ser aplicado em diversas áreas, como atendimento ao cliente, diagnóstico médico, pesquisa científica e análise de dados de mercado. É capaz de aprender com o tempo, pois pode ser treinado com novos dados e informações para melhorar suas respostas e resultados.  Em resumo, o Watson funciona como um sistema inteligente capaz de analisar dados complexos, compreender a linguagem humana e tomar decisões informadas com base nas informações disponíveis.  
+[10.128.66.217] - [2023-10-06T16:17:35.878012162+00:00] [INFO] - Home: Getting chat 3d6ee1e2-f7d5-4d39-813d-7c07a536c390  
+[10.128.66.217] - [2023-10-06T16:17:36.796371696+00:00] [INFO] - Home: Chat 3d6ee1e2-f7d5-4d39-813d-7c07a536c390 retrieved successfully  
+[10.128.66.217] - [2023-10-06T16:17:38.199100879+00:00] [INFO] - Home: Getting chat 3d6ee1e2-f7d5-4d39-813d-7c07a536c390  
+[10.128.66.217] - [2023-10-06T16:17:39.177819099+00:00] [INFO] - Home: Chat 3d6ee1e2-f7d5-4d39-813d-7c07a536c390 retrieved successfully  
+[10.128.66.217] - [2023-10-06T16:17:42.468876376+00:00] [INFO] - Home: Getting chat 3d6ee1e2-f7d5-4d39-813d-7c07a536c390  
+[10.128.66.217] - [2023-10-06T16:17:43.207965433+00:00] [INFO] - Home: Chat 3d6ee1e2-f7d5-4d39-813d-7c07a536c390 retrieved successfully  
+[10.128.66.217] - [2023-10-06T16:18:08.085654428+00:00] [INFO] - ChatScreen: Back button pressed  
+[10.128.66.217] - [2023-10-06T16:18:10.980666178+00:00] [INFO] - Home: Settings button clicked  
+[10.128.66.217] - [2023-10-06T16:18:11.796423222+00:00] [INFO] - Settings: _logOut: Logged out  
+[10.128.66.217] - [2023-10-06T16:18:12.055370866+00:00] [INFO] - Home: Disposing  
+[10.128.66.217] - [2023-10-06T16:27:25.602979879+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T16:27:25.609449225+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T16:27:25.689620840+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T16:27:25.689620885+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T16:27:25.689620881+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:27:25.691251915+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:27:25.691252006+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:27:25.807799438+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T16:27:25.807799607+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:27:25.808433608+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T16:27:25.808493407+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T16:27:38.866049453+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T16:27:38.866049507+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T16:27:38.935265806+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:27:38.972646926+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T16:27:38.991858494+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T16:27:38.998164954+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T16:27:39.023306343+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T16:27:39.023306349+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T16:27:39.023338797+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T16:27:39.024296623+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T16:27:39.041331857+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:03:45.033713719+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T17:03:45.043736924+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T17:03:45.094429884+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:03:45.094465806+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T17:03:45.095033791+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T17:03:45.095073203+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:03:45.097095463+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T17:03:45.223259177+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T17:03:45.223336192+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:03:45.223586704+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T17:03:45.223749644+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T17:06:34.543347443+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T17:06:34.549200910+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T17:06:34.600442241+00:00] [DEBUG] - UserService: auth: Response status code - 500  
+[10.128.66.217] - [2023-10-06T17:06:34.600857896+00:00] [ERROR] - UserService: auth: Response error - {"message":"Invalid Email or/and Password"}  
+[10.128.66.217] - [2023-10-06T17:06:34.601839072+00:00] [ERROR] - Login: Login failed  
+[10.128.66.217] - [2023-10-06T17:06:34.601855347+00:00] [DEBUG] - Login: Response status code - 500  
+[10.128.66.217] - [2023-10-06T17:06:55.263281891+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T17:06:55.263415518+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T17:06:55.308811691+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:06:55.310122169+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T17:06:55.310119422+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T17:06:55.310187338+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:06:55.315068539+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/0662da70-6804-47a8-bc99-3826c56e6703  
+[10.128.66.217] - [2023-10-06T17:06:55.532160435+00:00] [DEBUG] - Login: User - pedro.baptista@ibm.com  
+[10.128.66.217] - [2023-10-06T17:06:55.532171515+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T17:06:55.532175763+00:00] [INFO] - Login: User has mode: SalesTracker  
+[10.128.66.217] - [2023-10-06T17:06:55.532175755+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:06:55.551626756+00:00] [INFO] - Home: Initializing state  
+[10.128.66.217] - [2023-10-06T17:06:55.551626751+00:00] [INFO] - Home: Changing dependencies  
+[10.128.66.217] - [2023-10-06T17:06:55.551750401+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T17:11:03.756715345+00:00] [INFO] - Home: Creating chat  
+[10.128.66.217] - [2023-10-06T17:11:09.621063669+00:00] [INFO] - ChatScreen: Chat created successfully: 10fa0407-cb6e-48ae-8b89-3a511246cb2d  
+[10.128.66.217] - [2023-10-06T17:11:09.621193215+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T17:11:09.621297508+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T17:11:09.699001039+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T17:11:09.699410788+00:00] [INFO] - AudioService: Posting audio to http://10.128.66.228:3001/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T17:11:09.701221497+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T17:11:09.718616697+00:00] [INFO] - AudioService: Audio bytes length - 43509  
+[10.128.66.217] - [2023-10-06T17:11:27.718198483+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T17:11:27.718200416+00:00] [INFO] - AudioService: Response - A IBM (International Business Machines) é uma empresa multinacional de tecnologia e consultoria, conhecida por seus avanços em hardware, software e serviços. Com uma história de mais de 100 anos, a IBM é líder em tecnologia e inovação, oferecendo soluções para empresas em diferentes setores em todo o mundo.  
+[10.128.66.217] - [2023-10-06T17:11:27.718242051+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:11:27.718284029+00:00] [INFO] - AudioService: Response success  
+[10.128.66.217] - [2023-10-06T17:11:50.945272807+00:00] [INFO] - ChatScreen: Back button pressed  
+[10.128.66.217] - [2023-10-06T17:12:32.094876465+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T17:12:32.099159419+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T17:12:32.170734088+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:12:32.172204256+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:12:32.172326878+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T17:12:32.172327003+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T17:12:32.172516827+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T17:12:32.259936459+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:12:32.259945730+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T17:12:32.260308512+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T17:12:32.260395657+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T17:33:40.812886592+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T17:33:40.819348158+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T17:33:40.874643677+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:33:40.874808694+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T17:33:40.876488628+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:33:40.886844097+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T17:33:40.890057794+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T17:33:40.973068181+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T17:33:40.973193987+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T17:33:40.974232508+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T17:33:40.975865479+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:36:38.757551113+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T17:36:38.763610053+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T17:36:38.825364778+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:36:38.825484290+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T17:36:38.825561762+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T17:36:38.825651083+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:36:38.826099738+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T17:36:38.925009249+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T17:36:38.928909210+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T17:36:38.928909205+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T17:36:38.928943343+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:42:33.492366471+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T17:42:33.620199402+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T17:42:33.798025497+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:42:33.799292385+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T17:42:33.799292342+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:42:33.810282694+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T17:42:33.813115309+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T17:42:33.980217231+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T17:42:33.980222648+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T17:42:33.981726693+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T17:42:33.981829008+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:56:11.371282135+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T17:56:11.375873608+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T17:56:11.471818975+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T17:56:11.471834068+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:56:11.472077860+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:56:11.478470988+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T17:56:11.478470959+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T17:56:11.564264348+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T17:56:11.564264347+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T17:56:11.564264341+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T17:56:11.564673786+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:15:19.061166212+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T18:15:19.066323709+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T18:15:19.121265611+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:15:19.123243441+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T18:15:19.124115279+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:15:19.124384346+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T18:15:19.124837426+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:15:19.210558813+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T18:15:19.210605190+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:15:19.210693133+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:15:19.210987072+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T18:15:20.305452702+00:00] [DEBUG] - UserService: updateUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:15:20.306795398+00:00] [INFO] - SelectMode: Submit button pressed  
+[10.128.66.217] - [2023-10-06T18:15:20.442090628+00:00] [INFO] - SelectMode: Selected mode: MarketTracker  
+[10.128.66.217] - [2023-10-06T18:15:20.442090664+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T18:15:20.442090662+00:00] [DEBUG] - SelectMode: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:15:20.442090652+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:15:20.442396981+00:00] [INFO] - SelectMode: Submit successful  
+[10.128.66.217] - [2023-10-06T18:15:20.445786350+00:00] [INFO] - Home: Initializing state  
+[10.128.66.217] - [2023-10-06T18:15:20.445959639+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T18:15:20.446021958+00:00] [INFO] - Home: Changing dependencies  
+[10.128.66.217] - [2023-10-06T18:15:25.084652488+00:00] [INFO] - Home: Deleting chat 10fa0407-cb6e-48ae-8b89-3a511246cb2d  
+[10.128.66.217] - [2023-10-06T18:15:38.220108812+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T18:15:38.226633692+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T18:15:38.276746442+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T18:15:38.276749855+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:15:38.276878017+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:15:38.278248866+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T18:15:38.278248898+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:15:38.369573546+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:15:38.369624488+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:15:38.369624495+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T18:15:38.371292575+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T18:16:10.270438515+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T18:16:10.276729731+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T18:16:10.333128455+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:16:10.333320308+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T18:16:10.333366923+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:16:10.334796461+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T18:16:10.335158228+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/0662da70-6804-47a8-bc99-3826c56e6703  
+[10.128.66.217] - [2023-10-06T18:16:10.543543131+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:16:10.543543179+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:16:10.543543159+00:00] [DEBUG] - Login: User - pedro.baptista@ibm.com  
+[10.128.66.217] - [2023-10-06T18:16:10.544026172+00:00] [INFO] - Login: User has mode: SalesTracker  
+[10.128.66.217] - [2023-10-06T18:16:10.549505719+00:00] [INFO] - Home: Initializing state  
+[10.128.66.217] - [2023-10-06T18:16:10.549731302+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T18:16:10.550281474+00:00] [INFO] - Home: Changing dependencies  
+[10.128.66.217] - [2023-10-06T18:16:13.821000325+00:00] [INFO] - Home: Settings button clicked  
+[10.128.66.217] - [2023-10-06T18:16:14.527290218+00:00] [INFO] - Settings: Updating to: MarketTracker  
+[10.128.66.217] - [2023-10-06T18:16:14.529600660+00:00] [DEBUG] - UserService: updateUser: http://10.128.66.228:3001/v1/user/0662da70-6804-47a8-bc99-3826c56e6703  
+[10.128.66.217] - [2023-10-06T18:16:14.601402118+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:16:14.601503005+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T18:16:14.601503011+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/0662da70-6804-47a8-bc99-3826c56e6703  
+[10.128.66.217] - [2023-10-06T18:16:14.694139651+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:16:14.694139793+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:16:14.694139756+00:00] [INFO] - Settings: _updateSelectedMode: Updated user mode  
+[10.128.66.217] - [2023-10-06T18:16:59.595012540+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T18:16:59.598438322+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T18:16:59.696261633+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T18:16:59.697201686+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T18:16:59.698027493+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:16:59.698072718+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:16:59.699471850+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:16:59.787739136+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T18:16:59.787881434+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:16:59.789106938+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:16:59.789179391+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T18:17:00.322181743+00:00] [INFO] - SelectMode: Submit button pressed  
+[10.128.66.217] - [2023-10-06T18:17:00.322517949+00:00] [DEBUG] - UserService: updateUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:17:00.469319232+00:00] [INFO] - SelectMode: Submit successful  
+[10.128.66.217] - [2023-10-06T18:17:00.469319184+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T18:17:00.469319316+00:00] [INFO] - SelectMode: Selected mode: MarketTracker  
+[10.128.66.217] - [2023-10-06T18:17:00.469319150+00:00] [DEBUG] - SelectMode: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:17:00.470052581+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:17:00.486219513+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T18:17:00.486233397+00:00] [INFO] - Home: Initializing state  
+[10.128.66.217] - [2023-10-06T18:17:00.490928164+00:00] [INFO] - Home: Changing dependencies  
+[10.128.66.217] - [2023-10-06T18:17:01.499669533+00:00] [INFO] - Home: Creating chat  
+[10.128.66.217] - [2023-10-06T18:17:06.775055749+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T18:17:06.775113228+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T18:17:06.777620812+00:00] [INFO] - ChatScreen: Chat created successfully: 518e9412-0091-4639-a774-794e8e2ceb31  
+[10.128.66.217] - [2023-10-06T18:17:06.785110175+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T18:17:06.785121989+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T18:17:06.786589264+00:00] [INFO] - AudioService: Posting audio to http://10.128.66.228:3001/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T18:17:06.789623295+00:00] [INFO] - AudioService: Audio bytes length - 51132  
+[10.128.66.217] - [2023-10-06T18:17:26.839179543+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:17:26.839957206+00:00] [INFO] - AudioService: Response - BTG Pactual é uma instituição financeira brasileira com foco em serviços bancários e de investimento. Fundado em 1983, o banco se destaca pela sua expertise em fusões e aquisições, gestão de ativos e gestão de fortunas. Possui uma ampla gama de produtos e serviços, atendendo tanto empresas quanto clientes individuais. É reconhecido pela sua atuação no mercado global e pela sua sólida reputação.  
+[10.128.66.217] - [2023-10-06T18:17:26.839958333+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T18:17:26.842039868+00:00] [INFO] - AudioService: Response success  
+[10.128.66.217] - [2023-10-06T18:20:13.594374827+00:00] [INFO] - ChatScreen: Back button pressed  
+[10.128.66.217] - [2023-10-06T18:20:16.391921153+00:00] [INFO] - Home: Deleting chat 518e9412-0091-4639-a774-794e8e2ceb31  
+[10.128.66.217] - [2023-10-06T18:20:17.203112383+00:00] [DEBUG] - Chat ID: 518e9412-0091-4639-a774-794e8e2ceb31  
+[10.128.66.217] - [2023-10-06T18:20:17.205432587+00:00] [INFO] - Home: Deleting chat  
+[10.128.66.217] - [2023-10-06T18:20:17.212783210+00:00] [DEBUG] - User ID: 94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:20:17.333341559+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T18:23:50.378010807+00:00] [INFO] - Home: Settings button clicked  
+[10.128.66.217] - [2023-10-06T18:23:50.909380162+00:00] [INFO] - Settings: Updating to: SalesTracker  
+[10.128.66.217] - [2023-10-06T18:23:50.909392102+00:00] [DEBUG] - UserService: updateUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:23:50.947773244+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:23:50.949766918+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T18:23:50.949766872+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:23:50.992598607+00:00] [INFO] - Settings: _updateSelectedMode: Updated user mode  
+[10.128.66.217] - [2023-10-06T18:23:50.992598703+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:23:50.992598710+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:24:37.848677299+00:00] [INFO] - Home: Creating chat  
+[10.128.66.217] - [2023-10-06T18:24:42.123242908+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T18:24:42.123285369+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T18:24:42.123285377+00:00] [INFO] - ChatScreen: Chat created successfully: 27191d6a-3aa3-4fff-9a8b-bb86512f6403  
+[10.128.66.217] - [2023-10-06T18:24:42.156264750+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T18:24:42.159925696+00:00] [INFO] - AudioService: Posting audio to http://10.128.66.228:3001/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T18:24:42.159925688+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T18:24:42.179100818+00:00] [INFO] - AudioService: Audio bytes length - 42837  
+[10.128.66.217] - [2023-10-06T18:25:04.715298226+00:00] [INFO] - AudioService: Response success  
+[10.128.66.217] - [2023-10-06T18:25:04.715301036+00:00] [INFO] - AudioService: Response - O BTG Pactual é um dos maiores bancos de investimento da América Latina. A empresa oferece uma ampla gama de serviços financeiros, incluindo assessoria financeira, gestão de ativos, crédito corporativo, entre outros. É reconhecido por sua expertise em fusões e aquisições, operações de mercado de capitais e gestão de patrimônio. O BTG Pactual possui escritórios em diferentes países e tem uma forte presença no mercado financeiro global.  
+[10.128.66.217] - [2023-10-06T18:25:04.715300276+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:25:04.717113187+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T18:25:07.212368751+00:00] [INFO] - ChatScreen: Back button pressed  
+[10.128.66.217] - [2023-10-06T18:25:10.119576995+00:00] [INFO] - Home: Deleting chat 27191d6a-3aa3-4fff-9a8b-bb86512f6403  
+[10.128.66.217] - [2023-10-06T18:25:10.806367689+00:00] [DEBUG] - User ID: 94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:25:10.806412549+00:00] [DEBUG] - Chat ID: 27191d6a-3aa3-4fff-9a8b-bb86512f6403  
+[10.128.66.217] - [2023-10-06T18:25:10.806664958+00:00] [INFO] - Home: Deleting chat  
+[10.128.66.217] - [2023-10-06T18:25:10.884228034+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T18:25:47.708567707+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T18:25:47.715056709+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T18:25:47.766313590+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:25:47.772391918+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T18:25:47.773689568+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:25:47.780808364+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T18:25:47.781027205+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:25:47.844376092+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:25:47.915133708+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T18:25:47.916018352+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T18:25:47.916089417+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:34:33.812759163+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T18:34:33.812870993+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T18:34:33.892056480+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:34:33.892254188+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T18:34:33.892264190+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:34:33.892736546+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:34:33.892870585+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T18:34:33.996503347+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:34:33.996580492+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:34:33.996882683+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T18:34:33.996984913+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T18:37:19.870153232+00:00] [DEBUG] - UserService: auth: http://10.128.66.228:3001/v1/user/auth  
+[10.128.66.217] - [2023-10-06T18:37:19.870883249+00:00] [INFO] - Login: Login button pressed  
+[10.128.66.217] - [2023-10-06T18:37:19.951839734+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:37:19.951839729+00:00] [INFO] - Login: Login success  
+[10.128.66.217] - [2023-10-06T18:37:19.951862350+00:00] [DEBUG] - Login: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:37:19.951862344+00:00] [INFO] - UserService: auth: Response success  
+[10.128.66.217] - [2023-10-06T18:37:19.952981803+00:00] [DEBUG] - UserService: auth: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:37:20.049974445+00:00] [DEBUG] - Login: User - user@ibm.com  
+[10.128.66.217] - [2023-10-06T18:37:20.049974345+00:00] [INFO] - Login: User has no mode  
+[10.128.66.217] - [2023-10-06T18:37:20.049974399+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:37:20.052555213+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:37:22.418031068+00:00] [INFO] - SelectMode: Selected mode: 1  
+[10.128.66.217] - [2023-10-06T18:37:23.139238588+00:00] [INFO] - SelectMode: Selected mode: 0  
+[10.128.66.217] - [2023-10-06T18:37:24.706054477+00:00] [DEBUG] - UserService: updateUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:37:24.708302168+00:00] [INFO] - SelectMode: Submit button pressed  
+[10.128.66.217] - [2023-10-06T18:37:25.072221306+00:00] [INFO] - SelectMode: Submit successful  
+[10.128.66.217] - [2023-10-06T18:37:25.072244746+00:00] [DEBUG] - SelectMode: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:37:25.072244812+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T18:37:25.072244802+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:37:25.073102919+00:00] [INFO] - SelectMode: Selected mode: MarketTracker  
+[10.128.66.217] - [2023-10-06T18:37:25.102617999+00:00] [INFO] - Home: Getting history  
+[10.128.66.217] - [2023-10-06T18:37:25.102617951+00:00] [INFO] - Home: Initializing state  
+[10.128.66.217] - [2023-10-06T18:37:25.102618012+00:00] [INFO] - Home: Changing dependencies  
+[10.128.66.217] - [2023-10-06T18:37:32.612649870+00:00] [INFO] - Home: Navigating to chat 10fa0407-cb6e-48ae-8b89-3a511246cb2d  
+[10.128.66.217] - [2023-10-06T18:37:32.619181639+00:00] [INFO] - Home: Getting chat 10fa0407-cb6e-48ae-8b89-3a511246cb2d  
+[10.128.66.217] - [2023-10-06T18:37:32.804862712+00:00] [INFO] - Home: Chat 10fa0407-cb6e-48ae-8b89-3a511246cb2d retrieved successfully  
+[10.128.66.217] - [2023-10-06T18:37:38.800615978+00:00] [INFO] - Home: Creating chat  
+[10.128.66.217] - [2023-10-06T18:37:47.208485348+00:00] [INFO] - Home: Navigating to chat d135de10-308d-456a-9753-56002c837220  
+[10.128.66.217] - [2023-10-06T18:37:47.211946923+00:00] [INFO] - Home: Getting chat d135de10-308d-456a-9753-56002c837220  
+[10.128.66.217] - [2023-10-06T18:37:47.450357636+00:00] [INFO] - Home: Chat d135de10-308d-456a-9753-56002c837220 retrieved successfully  
+[10.128.66.217] - [2023-10-06T18:37:51.194128037+00:00] [INFO] - Home: Navigating to chat defa13a5-369c-4e29-a223-78b9b618fae0  
+[10.128.66.217] - [2023-10-06T18:37:51.217202670+00:00] [INFO] - Home: Getting chat defa13a5-369c-4e29-a223-78b9b618fae0  
+[10.128.66.217] - [2023-10-06T18:37:51.935218625+00:00] [INFO] - Home: Chat defa13a5-369c-4e29-a223-78b9b618fae0 retrieved successfully  
+[10.128.66.217] - [2023-10-06T18:39:19.926986106+00:00] [INFO] - Home: Settings button clicked  
+[10.128.66.217] - [2023-10-06T18:39:21.008739220+00:00] [DEBUG] - UserService: updateUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:39:21.008784428+00:00] [INFO] - Settings: Updating to: SalesTracker  
+[10.128.66.217] - [2023-10-06T18:39:21.046181839+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:39:21.050387255+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:39:21.053623242+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T18:39:21.122625761+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:39:21.122625709+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:39:21.123592369+00:00] [INFO] - Settings: _updateSelectedMode: Updated user mode  
+[10.128.66.217] - [2023-10-06T18:39:22.329277307+00:00] [INFO] - Settings: Updating to: MarketTracker  
+[10.128.66.217] - [2023-10-06T18:39:22.330511143+00:00] [DEBUG] - UserService: updateUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:39:22.360258904+00:00] [DEBUG] - UserService: updateUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:39:22.360483791+00:00] [DEBUG] - UserService: getUser: http://10.128.66.228:3001/v1/user/94a61c04-4e1d-49ac-b722-20616b0b4463  
+[10.128.66.217] - [2023-10-06T18:39:22.360521385+00:00] [INFO] - UserService: updateUser: Response success  
+[10.128.66.217] - [2023-10-06T18:39:22.389465959+00:00] [DEBUG] - UserService: getUser: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:39:22.389535191+00:00] [INFO] - UserService: getUser: Response success  
+[10.128.66.217] - [2023-10-06T18:39:22.391407864+00:00] [INFO] - Settings: _updateSelectedMode: Updated user mode  
+[10.128.66.217] - [2023-10-06T18:39:28.375421595+00:00] [INFO] - Home: Creating chat  
+[10.128.66.217] - [2023-10-06T18:39:59.344433431+00:00] [INFO] - ChatScreen: Chat created successfully: f9ff7a42-4d1c-48df-aea2-5de4a8d568e3  
+[10.128.66.217] - [2023-10-06T18:39:59.345761734+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T18:39:59.345791855+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T18:39:59.377109453+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T18:39:59.383396250+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T18:39:59.400229882+00:00] [INFO] - AudioService: Audio bytes length - 103712  
+[10.128.66.217] - [2023-10-06T18:39:59.402717100+00:00] [INFO] - AudioService: Posting audio to http://10.128.66.228:3001/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T18:40:12.962029666+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T18:40:12.965058291+00:00] [INFO] - AudioService: Response success  
+[10.128.66.217] - [2023-10-06T18:40:12.965204254+00:00] [INFO] - AudioService: Response - Alguns dos principais temas discutidos atualmente em tecnologia são inteligência artificial, big data, computação em nuvem, internet das coisas, cibersegurança, blockchain e realidade virtual/aumentada.  
+[10.128.66.217] - [2023-10-06T18:40:12.965221865+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:40:46.094649792+00:00] [INFO] - ChatScreen: Back button pressed  
+[10.128.66.217] - [2023-10-06T18:40:48.653444980+00:00] [INFO] - Home: Getting chat f9ff7a42-4d1c-48df-aea2-5de4a8d568e3  
+[10.128.66.217] - [2023-10-06T18:40:48.656793866+00:00] [INFO] - Home: Navigating to chat f9ff7a42-4d1c-48df-aea2-5de4a8d568e3  
+[10.128.66.217] - [2023-10-06T18:40:48.881432809+00:00] [INFO] - Home: Chat f9ff7a42-4d1c-48df-aea2-5de4a8d568e3 retrieved successfully  
+[10.128.66.217] - [2023-10-06T18:40:56.951413771+00:00] [INFO] - Home: Settings button clicked  
+[10.128.66.217] - [2023-10-06T18:41:06.311456754+00:00] [INFO] - Home: Navigating to chat f9ff7a42-4d1c-48df-aea2-5de4a8d568e3  
+[10.128.66.217] - [2023-10-06T18:41:06.338130419+00:00] [INFO] - Home: Getting chat f9ff7a42-4d1c-48df-aea2-5de4a8d568e3  
+[10.128.66.217] - [2023-10-06T18:41:06.644243968+00:00] [INFO] - Home: Chat f9ff7a42-4d1c-48df-aea2-5de4a8d568e3 retrieved successfully  
+[10.128.66.217] - [2023-10-06T18:42:05.168754791+00:00] [INFO] - AudioService: Encoding audio  
+[10.128.66.217] - [2023-10-06T18:42:05.201156827+00:00] [INFO] - AudioService: Audio file  
+[10.128.66.217] - [2023-10-06T18:42:05.225157201+00:00] [INFO] - AudioService: Posting audio to http://10.128.66.228:3001/v1/chat/ask  
+[10.128.66.217] - [2023-10-06T18:42:05.226426257+00:00] [INFO] - AudioService: Audio base64  
+[10.128.66.217] - [2023-10-06T18:42:05.319206125+00:00] [INFO] - AudioService: Audio bytes length  
+[10.128.66.217] - [2023-10-06T18:42:05.329731193+00:00] [INFO] - AudioService: Audio bytes length - 82256  
+[10.128.66.217] - [2023-10-06T18:42:28.728821519+00:00] [INFO] - AudioService: Response - A inteligência artificial pode ajudar os clientes de diversas maneiras. Alguns exemplos incluem o uso de chatbots para atendimento ao cliente rápido e eficiente, recomendações personalizadas com base no histórico de compras e preferências do cliente, detecção e prevenção de fraudes, análise de dados para identificar tendências e padrões de comportamento dos clientes, e automação de tarefas repetitivas para economizar tempo e recursos. A IA pode melhorar a experiência do cliente, fornecendo respostas rápidas e precisas, personalização e soluções mais eficientes.  
+[10.128.66.217] - [2023-10-06T18:42:28.728862577+00:00] [INFO] - AudioService: Response status code - 200  
+[10.128.66.217] - [2023-10-06T18:42:28.730226928+00:00] [INFO] - ChatScreen: Audio processed successfully  
+[10.128.66.217] - [2023-10-06T18:42:28.730241779+00:00] [INFO] - AudioService: Response success  
